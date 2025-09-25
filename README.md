@@ -1,4 +1,4 @@
-# Easiest-way-to-embed-a-DOCX-file-in-HTML-for-viewing-and-editing
+# Easiest way to embed a DOCX file in HTML for viewing and editing
 This repository contains an example of the easiest way to embed a DOCX file in HTML for viewing and editing using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
